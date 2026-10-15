@@ -1,2 +1,1 @@
-# ideal-train
-Adaptive Autonomous Multi-Robot LoRa Relay Network for Remote Communication
+# Adaptive Autonomous Multi-Robot LoRa Relay Network for Remote Communication
