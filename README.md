@@ -1,2 +1,6 @@
 # Adaptive Autonomous Multi-Robot LoRa Relay Network for Remote Communication
-hi
+
+## Abstract
+Establishing reliable communication in remote, disaster-stricken, or infrastructure-less environments is a critical challenge for emergency response and autonomous field operations. While Long Range (LoRa) radio technology provides low-power, long-distance communication, its physical layer performance is heavily degraded by non-line-of-sight (NLOS) obstacles, terrain elevation, and excessive distances. This study presents a review of an autonomous multi-robot relay system in which mobile ground robots ("car robots") dynamically reposition themselves to maintain and optimize a multi-hop LoRa mesh network between remote clients. The project examines the fundamentals of Mobile Ad-hoc Networks (MANETs) and algebraic connectivity maintenance, multi-hop LoRa mesh protocols (such as Meshtastic), lightweight publish/subscribe telemetry via MQTT, radio frequency (RF) site-planning propagation models, and adaptive positioning and path-planning algorithms. Furthermore, performance evaluation metrics, current hardware/protocol limitations, and future directions for self-healing robotic communication relays are discussed.
+
+----
